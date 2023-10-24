@@ -40,7 +40,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/breezjirasak/breezjirasak/output/github-snake.svg-dark.svg"
+    srcset="https://raw.githubusercontent.com/breezjirasak/breezjirasak/output/github-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
